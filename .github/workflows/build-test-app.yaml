@@ -52,5 +52,5 @@ jobs:
       - name : Install dependencies
         run: npm install
         
-      - name: serve app
+      - name: serve application
         run: npm run dev
